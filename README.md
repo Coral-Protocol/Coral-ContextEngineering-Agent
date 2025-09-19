@@ -1,4 +1,4 @@
-## [Coral-RedditContext-Agent](https://github.com/Coral-Protocol/Coral-Coral-RedditContext-Agent)
+## [Coral-RedditContext-Agent](https://github.com/Coral-Protocol/Coral-RedditContext-Agent)
  
 AI Content Generation Agent specialized in creating engaging Reddit posts with advanced context engineering capabilities. This agent dynamically updates its context based on user requirements to generate highly personalized and targeted content.
 
