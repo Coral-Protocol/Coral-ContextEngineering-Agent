@@ -1,9 +1,9 @@
-## [Context Engineering Agent](https://github.com/Coral-Protocol/Coral-ContextEngineering-Agent)
+## [Coral-RedditContext-Agent](https://github.com/Coral-Protocol/Coral-Coral-RedditContext-Agent)
  
 AI Content Generation Agent specialized in creating engaging Reddit posts with advanced context engineering capabilities. This agent dynamically updates its context based on user requirements to generate highly personalized and targeted content.
 
 ## Responsibility
-Context Engineering Agent serves as a Reddit Content Strategist that creates personalized and engaging Reddit post ideas based on user context. It excels at understanding the importance of context in content creation and can adapt suggestions to match different tones, objectives, and niches. The agent uses an innovative context engineering approach where it dynamically updates its understanding based on user requirements, ensuring each generated post is perfectly tailored to the specific context provided.
+Coral-RedditContext-Agent serves as a Reddit Content Strategist that creates personalized and engaging Reddit post ideas based on user context. It excels at understanding the importance of context in content creation and can adapt suggestions to match different tones, objectives, and niches. The agent uses an innovative context engineering approach where it dynamically updates its understanding based on user requirements, ensuring each generated post is perfectly tailored to the specific context provided.
 
 ## Details
 - **Framework**: CrewAI
@@ -20,10 +20,10 @@ Context Engineering Agent serves as a Reddit Content Strategist that creates per
 
 ```bash
 # In a new terminal clone the repository:
-git clone https://github.com/Coral-Protocol/Coral-ContextEngineering-Agent.git
+git clone https://github.com/Coral-Protocol/Coral-RedditContext-Agent.git
 
 # Navigate to the project directory:
-cd Coral-ContextEngineering-Agent
+cd Coral-RedditContext-Agent
 
 # Download and run the UV installer, setting the installation directory to the current one
 curl -LsSf https://astral.sh/uv/install.sh | env UV_INSTALL_DIR=$(pwd) sh
